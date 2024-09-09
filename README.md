@@ -22,4 +22,8 @@ To run these examples:
 1. Clone this repository
 2. Ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your system
 3. Navigate to the project directory
-4. Run individual files using `cargo run --bin <filename>`
+4. Build and run the Rust file: Use the following commands to build and run your Rust program:
+```shell
+cargo run
+```
+
